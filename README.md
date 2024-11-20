@@ -1,12 +1,15 @@
-# Hi there, I’m Yashraj Kalshetti! 👋  
+Hello, I'm Yashraj Kalshetti 👋
+🔍 Areas of Expertise: As a Computer Science enthusiast, I am deeply engaged in exploring emerging technologies and crafting innovative solutions. My core focus lies in Artificial Intelligence (AI), Machine Learning (ML), and Software Development, with a keen interest in their real-world applications.
 
-- 👀 **I’m interested in**: Exploring cutting-edge technologies, crafting innovative solutions, and contributing to impactful projects in computer science. My focus areas include Artificial Intelligence, Machine Learning, and Software Development.  
-- 🌱 **I’m currently learning**: Advanced concepts in Cloud Computing, Generative AI, and Full-Stack Development to broaden my technical expertise and stay ahead in the tech industry.  
-- 💞️ **I’m looking to collaborate on**: Projects that involve real-world problem-solving, especially in Emotion Recognition, AI-driven applications, and Web Development with unique ideas. I’m also keen to contribute to open-source communities.  
-- 📫 **How to reach me**:  
-   - **Email**: yashraj.kalshetti@gmail.com  
-   - **LinkedIn**: [Yashraj Kalshetti]([https://www.linkedin.com/in/yashraj-kalshett](https://www.linkedin.com/in/yashraj-kalshetti-820408222/)i)  
-   - **GitHub**: You're already here! 😊  
+📚 Current Learning Focus: I am expanding my technical skill set by diving into Cloud Computing, Generative AI, and Full-Stack Development, with a goal to stay at the forefront of technological advancements.
 
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: I enjoy combining my passion for traveling with technology—exploring new places often sparks creative project ideas!  
+🤝 Collaboration Opportunities: I am actively seeking collaborations on projects that address real-world challenges, particularly in areas such as Emotion Recognition, AI-driven Applications, and Web Development. I am also passionate about contributing to open-source initiatives and being part of forward-thinking tech communities.
+
+📬 Contact Information:
+
+Email: yashraj.kalshetti@gmail.com
+LinkedIn: Yashraj Kalshetti
+GitHub: Yashraj's GitHub
+🔗 Pronouns: He/Him
+
+⚡ Fun Fact: I combine my passion for technology with my love for travel. Exploring new places not only broadens my horizons but also inspires unique project ideas and creative solutions.
