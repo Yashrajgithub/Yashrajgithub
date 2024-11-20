@@ -11,4 +11,4 @@
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I enjoy combining my passion for traveling with technology—exploring new places often sparks creative project ideas!
 
-- 
+  
