@@ -1,4 +1,3 @@
-![Header](https://github.com/Yashrajgithub/Yashrajgithub/blob/main/header.png?raw=true)
 
 ## 👋 Hello, I'm Yashraj
 
